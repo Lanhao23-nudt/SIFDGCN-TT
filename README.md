@@ -5,7 +5,9 @@ Haolan, Meng Tang, Sheng Dai, Jun Yang, Ming Li, Dewen Hu, "SIFDGCN-TT: Scalp-In
 
 ## File and folder contents
 **SIFDGCN.py and SIFDGCN_TT.py**: Code for model.
+
 **Torch_Structure_DE_18Sub.py**: Main function.
+
 **Baseline_MMV.py**: Code for baseline model.
 
 ## Requirements
