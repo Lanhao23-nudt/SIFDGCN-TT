@@ -8,5 +8,12 @@ Haolan, Meng Tang, Sheng Dai, Jun Yang, Ming Li, Dewen Hu, "SIFDGCN-TT: Scalp-In
 **Torch_Structure_DE_18Sub.py**: Main function.
 **Baseline_MMV.py**: Code for baseline model.
 
+## Requirements
+The Torch version and other related dependencies used by the project are as shown in the requirements.txt file, but other versions are often compatible as well.
+
 ## Reproduction
 **Step 1**: Download the "Feature Data" part from MMV dataset.
+
+**Step 2**: Create a virtual environment that includes the packages specified in requirements.
+
+**Step 3**: Run Torch_Structure_DE_18Sub.py.
